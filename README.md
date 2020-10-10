@@ -1,2 +1,2 @@
-This is 11th screencast, called "11. Move Components into Separate Files"<br />
+This is 10th screencast, called "10. Move Components into Separate Files"<br />
 https://scrimba.com/course/glearnreact
